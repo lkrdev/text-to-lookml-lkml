@@ -1,1 +1,2 @@
+include: "/**/*.lkml"
 connection: "birdbench"
